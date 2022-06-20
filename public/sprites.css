@@ -1,0 +1,335 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Body-Body_Brown-Skin {max-width:128px; max-height:128px; }
+.Body-Body_Brown-Skin::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Body-Body_Brown-Skin::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Body-Body_OliveBrown-Skin {max-width:128px; max-height:128px; }
+.Body-Body_OliveBrown-Skin::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Body-Body_OliveBrown-Skin::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Body-Body_Pink-Skin {max-width:128px; max-height:128px; }
+.Body-Body_Pink-Skin::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Body-Body_Pink-Skin::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Cheeks-Cheeks_1 {max-width:128px; max-height:128px; }
+.Cheeks-Cheeks_1::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Cheeks-Cheeks_1::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Cheeks-Cheeks_2 {max-width:128px; max-height:128px; }
+.Cheeks-Cheeks_2::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Cheeks-Cheeks_2::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Cheeks-Cheeks_3 {max-width:128px; max-height:128px; }
+.Cheeks-Cheeks_3::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Cheeks-Cheeks_3::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Cheeks-Cheeks_Freckles {max-width:128px; max-height:128px; }
+.Cheeks-Cheeks_Freckles::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Cheeks-Cheeks_Freckles::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_1_Blue {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_1_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_1_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_1_Brown {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_1_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_1_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_1_Red {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_1_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_1_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_1_Yellow {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_1_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_1_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_2_Blue {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_2_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 0.09671179883945841%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_2_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_2_Brown {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_2_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_2_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_2_Red {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_2_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_2_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyebrows-Eyebrows_2_Yellow {max-width:128px; max-height:128px; }
+.Eyebrows-Eyebrows_2_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyebrows-Eyebrows_2_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyes-Eyes_1_Man {max-width:128px; max-height:128px; }
+.Eyes-Eyes_1_Man::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyes-Eyes_1_Man::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyes-Eyes_1_Woman {max-width:128px; max-height:128px; }
+.Eyes-Eyes_1_Woman::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyes-Eyes_1_Woman::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyes-Eyes_2_Man {max-width:128px; max-height:128px; }
+.Eyes-Eyes_2_Man::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyes-Eyes_2_Man::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Eyes-Eyes_2_Woman {max-width:128px; max-height:128px; }
+.Eyes-Eyes_2_Woman::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Eyes-Eyes_2_Woman::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Man-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Man-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Man-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Man-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Man-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Man-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Woman-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 12.572533849129593%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Woman-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Woman-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Woman-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Woman-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Woman-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Woman-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_1_Woman-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_1_Woman-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_1_Woman-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Man-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Man-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Man-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Man-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Man-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Man-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Woman-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Woman-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Woman-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Woman-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Woman-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Woman-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Woman-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_2_Woman-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_2_Woman-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_2_Woman-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Man-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 25.04835589941973%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Man-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Man-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Man-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Man-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Man-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Woman-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Woman-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Woman-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Woman-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Woman-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Woman-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Woman-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_3_Woman-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_3_Woman-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_3_Woman-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Man-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Man-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Man-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Man-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Man-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Man-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Woman-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 37.524177949709866%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Woman-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Woman-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Woman-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Woman-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Woman-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Woman-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_4_Woman-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_4_Woman-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_4_Woman-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_5_Man-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_5_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_5_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_5_Man-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_5_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_5_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_5_Man-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_5_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_5_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_5_Man-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_5_Man-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_5_Man-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_Unisex-Blue {max-width:128px; max-height:128px; }
+.Hair-Hair_Unisex-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_Unisex-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_Unisex-Brown {max-width:128px; max-height:128px; }
+.Hair-Hair_Unisex-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_Unisex-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_Unisex-Red {max-width:128px; max-height:128px; }
+.Hair-Hair_Unisex-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_Unisex-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Hair-Hair_Unisex-Yellow {max-width:128px; max-height:128px; }
+.Hair-Hair_Unisex-Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Hair-Hair_Unisex-Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_1_Blue {max-width:128px; max-height:128px; }
+.Moustache-Moustache_1_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 50%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_1_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_1_Brown {max-width:128px; max-height:128px; }
+.Moustache-Moustache_1_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_1_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_1_Red {max-width:128px; max-height:128px; }
+.Moustache-Moustache_1_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_1_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_1_Yellow {max-width:128px; max-height:128px; }
+.Moustache-Moustache_1_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_1_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_2_Blue {max-width:128px; max-height:128px; }
+.Moustache-Moustache_2_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_2_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_2_Brown {max-width:128px; max-height:128px; }
+.Moustache-Moustache_2_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_2_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_2_Red {max-width:128px; max-height:128px; }
+.Moustache-Moustache_2_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_2_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_2_Yellow {max-width:128px; max-height:128px; }
+.Moustache-Moustache_2_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_2_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_3_Blue {max-width:128px; max-height:128px; }
+.Moustache-Moustache_3_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_3_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_3_Brown {max-width:128px; max-height:128px; }
+.Moustache-Moustache_3_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_3_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_3_Red {max-width:128px; max-height:128px; }
+.Moustache-Moustache_3_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_3_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_3_Yellow {max-width:128px; max-height:128px; }
+.Moustache-Moustache_3_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_3_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_4_Blue {max-width:128px; max-height:128px; }
+.Moustache-Moustache_4_Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 62.475822050290134%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_4_Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_4_Brown {max-width:128px; max-height:128px; }
+.Moustache-Moustache_4_Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_4_Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_4_Red {max-width:128px; max-height:128px; }
+.Moustache-Moustache_4_Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_4_Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Moustache-Moustache_4_Yellow {max-width:128px; max-height:128px; }
+.Moustache-Moustache_4_Yellow::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Moustache-Moustache_4_Yellow::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Mouth-Mouth_1 {max-width:128px; max-height:128px; }
+.Mouth-Mouth_1::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Mouth-Mouth_1::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Mouth-Mouth_1-Red {max-width:128px; max-height:128px; }
+.Mouth-Mouth_1-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Mouth-Mouth_1-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Mouth-Mouth_2 {max-width:128px; max-height:128px; }
+.Mouth-Mouth_2::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Mouth-Mouth_2::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Mouth-Mouth_3 {max-width:128px; max-height:128px; }
+.Mouth-Mouth_3::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Mouth-Mouth_3::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Mouth-Mouth_4 {max-width:128px; max-height:128px; }
+.Mouth-Mouth_4::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Mouth-Mouth_4::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Man-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Man-Bordeaux {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Man-Bordeaux::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Man-Bordeaux::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Man-Grey {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Man-Grey::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Man-Grey::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Woman-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 74.95164410058027%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Woman-Bordeaux {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Woman-Bordeaux::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Woman-Bordeaux::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_1_Woman-Grey {max-width:128px; max-height:128px; }
+.Outfit-Outfit_1_Woman-Grey::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_1_Woman-Grey::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_2_Man-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_2_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_2_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_2_Man-Grey {max-width:128px; max-height:128px; }
+.Outfit-Outfit_2_Man-Grey::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_2_Man-Grey::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_2_Woman-Black {max-width:128px; max-height:128px; }
+.Outfit-Outfit_2_Woman-Black::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_2_Woman-Black::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_2_Woman-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_2_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_2_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_2_Woman-Bordeaux {max-width:128px; max-height:128px; }
+.Outfit-Outfit_2_Woman-Bordeaux::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_2_Woman-Bordeaux::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Man-Black {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Man-Black::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Man-Black::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Man-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Man-Red {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Man-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Man-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Woman-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Woman-Bordeaux {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Woman-Bordeaux::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 87.4274661508704%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Woman-Bordeaux::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_3_Woman-Violet {max-width:128px; max-height:128px; }
+.Outfit-Outfit_3_Woman-Violet::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 0.07037297677691766% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_3_Woman-Violet::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Man-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Man-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 9.148486980999296% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Man-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Man-Bordeaux {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Man-Bordeaux::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 18.226600985221676% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Man-Bordeaux::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Man-Brown {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Man-Brown::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 27.304714989444054% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Man-Brown::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Woman-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Woman-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 36.38282899366643% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Woman-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Woman-Grey {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Woman-Grey::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 45.46094299788881% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Woman-Grey::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_4_Woman-Pink {max-width:128px; max-height:128px; }
+.Outfit-Outfit_4_Woman-Pink::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 54.53905700211119% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_4_Woman-Pink::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_5 {max-width:128px; max-height:128px; }
+.Outfit-Outfit_5::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 63.61717100633357% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_5::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_6_Security {max-width:128px; max-height:128px; }
+.Outfit-Outfit_6_Security::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 72.69528501055595% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_6_Security::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_Unisex-Blue {max-width:128px; max-height:128px; }
+.Outfit-Outfit_Unisex-Blue::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 81.77339901477832% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_Unisex-Blue::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_Unisex-Red {max-width:128px; max-height:128px; }
+.Outfit-Outfit_Unisex-Red::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 90.8515130190007% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_Unisex-Red::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+.Outfit-Outfit_Unisex-Violet {max-width:128px; max-height:128px; }
+.Outfit-Outfit_Unisex-Violet::after {content: '\00a0';display: inline-block; width:128px; height:128px; background-position: 99.92962702322308% 99.90328820116054%;background-size: 1210.15625% 907.8125%;background-image: url(sprites.png);padding: 0; }
+div.Outfit-Outfit_Unisex-Violet::after {max-width:128px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1c39eb3c3df68bf0359a783d30bebc73:93dee27f98430990d2f64c416a61c67d:61e53af8b0b91020742bc548d44c899f$ */
